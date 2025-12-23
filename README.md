@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning React<br>🎯 Goals: Become a Passionate Programmer<br>🎲 Fun fact: Laugh with Problems and cry with bug 🪲.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently Debuging 😅<br>🎯 Goals: Become a Passionate Programmer<br>🎲 Fun fact: Laugh with Problems and cry with bug 🪲.</p>
 
 ###
 
